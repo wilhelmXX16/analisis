@@ -28,3 +28,4 @@ function areaTrian (bt,ht){
 }
 
 console.log(areaTrian(5,6))
+console.log(areaTrian(7,8))
